@@ -1,0 +1,21 @@
+.footer {
+  padding: 20px 0;
+}
+
+.footer__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+
+.copipast {
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 130%;
+  color: #212121;
+}
+
+.social {
+  display: flex;
+  gap: 15px;
+}
